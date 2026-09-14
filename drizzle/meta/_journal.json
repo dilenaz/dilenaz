@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786618167624,
+      "tag": "0000_high_norman_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786619505474,
+      "tag": "0001_remove-health-and-references",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786620361807,
+      "tag": "0002_add-linkedin-posts",
+      "breakpoints": true
+    }
+  ]
+}
